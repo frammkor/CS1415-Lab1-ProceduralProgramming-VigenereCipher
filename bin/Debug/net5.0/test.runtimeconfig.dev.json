@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/frammkormac2020/.dotnet/store/|arch|/|tfm|",
+      "/Users/frammkormac2020/.nuget/packages"
+    ]
+  }
+}
